@@ -65,7 +65,7 @@ Ultimately, experimentation platform will foster a culture of
 10. **Support**:
    - The experimentation platform should provide mechanisms for users to receive help when they encounter problems or have questions.
 
-# Architecture Diagram for the User Interface of an Experimentation Platform
+# User Interface Architecture Diagram
 
 ![Architecture Diagram](overallflow.png)
 
@@ -79,3 +79,21 @@ The diagram illustrates the following steps:
 6. The UI may also have integration points with other systems, such as a user database or a product management tool.
 
 You can edit and save this diagram online using the Eraser tool. 
+
+# Experimentation Engine Integration Diagram
+
+![Integration Diagram](xpengine.png)
+
+The diagram illustrates the following steps:
+
+1. The Experimentation Engine receives experiment definitions from the User Interface.
+2. The Engine communicates with the User Database to segment users based on the experiment parameters.
+3. The Engine assigns users to different variants of the experiment.
+4. The Engine communicates with the Product or Service being tested to apply the experiment variants.
+5. The Engine communicates with the Data Collection and Storage component to track user interactions.
+6. The Engine communicates with the Data Analysis and Reporting component to analyze the results of the experiment.
+
+You can edit and save this diagram online using the Eraser tool.
+
+
+
