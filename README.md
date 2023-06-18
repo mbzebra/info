@@ -14,8 +14,7 @@ Such a platform will be designed to support decision-making based on empirical d
 
 It will often integrate with other tools and systems in an organization's tech stack, such as analytics platforms, data storage solutions, and customer data platforms.
 
-Ultimately, an experimentation platform will foster a culture of , , and , , , and .
-
+Ultimately, an experimentation platform will foster a culture of
 - **Data-driven decision making**
 - **Continuous learning**
 - **Iterative improvement**
