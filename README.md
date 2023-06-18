@@ -18,9 +18,13 @@ This platform will be designed to support decision-making based on empirical dat
 - **Revise the Marketing Strategies**
 - **Much more**
 
-It will often integrate with other tools and systems in an organization's tech stack, such as analytics platforms, data storage solutions, and customer data platforms.
+It will integrate with follwing systems in the tech stack
 
-Ultimately, an experimentation platform will foster a culture of
+- **Analytics platforms**
+- **Data storage solutions**
+- **Customer data platforms**
+
+Ultimately, experimentation platform will foster a culture of
 - **Data-driven decision making**
 - **Continuous learning**
 - **Iterative improvement**
