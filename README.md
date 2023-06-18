@@ -29,5 +29,3 @@
 
 10. **Support**: 
    - The experimentation platform should provide mechanisms for users to receive help when they encounter problems or have questions.
-
-> Remember, the design and feature set of the experimentation platform will heavily depend on the specific needs and use cases.
