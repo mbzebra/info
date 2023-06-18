@@ -65,3 +65,17 @@ Ultimately, experimentation platform will foster a culture of
 10. **Support**:
    - The experimentation platform should provide mechanisms for users to receive help when they encounter problems or have questions.
 
+# Architecture Diagram for the User Interface of an Experimentation Platform
+
+![Architecture Diagram](overallflow.png)
+
+The diagram illustrates the following steps:
+
+1. User logs into the Experimentation Platform UI.
+2. The UI communicates with the Authentication Server to verify the user's credentials.
+3. Once authenticated, the user can create, manage, and view experiments through the UI.
+4. The UI communicates with the Experimentation Engine to create and manage experiments.
+5. The UI communicates with the Data Analysis and Reporting component to display experiment results.
+6. The UI may also have integration points with other systems, such as a user database or a product management tool.
+
+You can edit and save this diagram online using the Eraser tool. 
