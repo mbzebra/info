@@ -1,4 +1,4 @@
-## Experimentation Platform
+# Experimentation Platform
 
 An experimentation platform will be a system that allows for the design, implementation, execution, and analysis of experiments to assess the impact of changes to a product, service, or system. 
 
@@ -33,7 +33,7 @@ Ultimately, experimentation platform will foster a culture of
 - **Incrementally improve their offerings based on real-world evidence**
 
 
-# Experimentation Platform Scope
+## Experimentation Platform Scope
 
 1. **User Interface**: 
    - The experimentation platform should have a user-friendly interface, making it easy to navigate while offering comprehensive functionality.
