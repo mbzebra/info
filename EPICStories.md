@@ -3,7 +3,7 @@
 | No. | TestCraft UI EPIC Title | EPIC Description |
 | --- | ------------------ |------------------ |
 | E101 | **[User Authentication UI](#e101-user-authentication-ui)** | Design and implement a user-friendly and secure login interface. |
-| E102 | **[Dashboard Design](#e101-user-authentication-ui)**| Create a comprehensive dashboard that provides an overview of ongoing experiments, key metrics, and recent activity. |
+| E102 | **[Dashboard Design](#e102-dashboard-design)**| Create a comprehensive dashboard that provides an overview of ongoing experiments, key metrics, and recent activity. |
 | E103 | **[Experiment Creation Wizard](#e101-user-authentication-ui)**| Develop a step-by-step wizard to guide users through the process of creating a new experiment. |
 | E104 | **[Experiment Management Interface](#e101-user-authentication-ui)**| Design an interface that allows users to easily manage their experiments, including starting, stopping, and modifying experiments. |
 | E105 | **[User Segmentation UI](#e101-user-authentication-ui)**| Implement a user-friendly interface for defining and managing audience segments for experiments. |
