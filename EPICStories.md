@@ -3,16 +3,16 @@
 | No. | TestCraft UI EPIC Title | EPIC Description |
 | --- | ------------------ |------------------ |
 | E101 | **[User Authentication UI](#e101-user-authentication-ui)** | Design and implement a user-friendly and secure login interface. |
-| E102 | **Dashboard Design**| Create a comprehensive dashboard that provides an overview of ongoing experiments, key metrics, and recent activity. |
-| E103 | **Experiment Creation Wizard**| Develop a step-by-step wizard to guide users through the process of creating a new experiment. |
-| E104 | **Experiment Management Interface**| Design an interface that allows users to easily manage their experiments, including starting, stopping, and modifying experiments. |
-| E105 | **User Segmentation UI**| Implement a user-friendly interface for defining and managing audience segments for experiments. |
-| E106 | **Data Visualization**| Develop a system for displaying experiment results in a clear and visually appealing way, including charts, graphs, and other visualizations. |
-| E107 | **Reporting Interface**| Design an interface for generating and viewing reports of experiment results. |
-| E108 | **Settings and Configuration UI**| Create a settings page where users can manage their account details, preferences, and other configuration options. |
-| E109 | **Help and Documentation UI**| Implement a help section with user guides, FAQs, and other resources to assist users in using TestCraft. |
-| E110 | **Responsive Design**| Ensure that the TestCraft UI is responsive and provides a consistent user experience across different devices and screen sizes. |
-| E111 | **Accessibility**| Ensure that the TestCraft UI is accessible to all users, including those with disabilities, by following accessibility best practices. |
+| E102 | **[Dashboard Design](#e101-user-authentication-ui)**| Create a comprehensive dashboard that provides an overview of ongoing experiments, key metrics, and recent activity. |
+| E103 | **[Experiment Creation Wizard](#e101-user-authentication-ui)**| Develop a step-by-step wizard to guide users through the process of creating a new experiment. |
+| E104 | **[Experiment Management Interface](#e101-user-authentication-ui)**| Design an interface that allows users to easily manage their experiments, including starting, stopping, and modifying experiments. |
+| E105 | **[User Segmentation UI](#e101-user-authentication-ui)**| Implement a user-friendly interface for defining and managing audience segments for experiments. |
+| E106 | **[Data Visualization](#e101-user-authentication-ui)**| Develop a system for displaying experiment results in a clear and visually appealing way, including charts, graphs, and other visualizations. |
+| E107 | **[Reporting Interface](#e101-user-authentication-ui)**| Design an interface for generating and viewing reports of experiment results. |
+| E108 | **[Settings and Configuration UI](#e101-user-authentication-ui)**| Create a settings page where users can manage their account details, preferences, and other configuration options. |
+| E109 | **[Help and Documentation UI](#e101-user-authentication-ui)**| Implement a help section with user guides, FAQs, and other resources to assist users in using TestCraft. |
+| E110 | **[Responsive Design](#e101-user-authentication-ui)**| Ensure that the TestCraft UI is responsive and provides a consistent user experience across different devices and screen sizes. |
+| E111 | **[Accessibility](#e101-user-authentication-ui)**| Ensure that the TestCraft UI is accessible to all users, including those with disabilities, by following accessibility best practices. |
 
 ## E101 User Authentication UI
 
@@ -29,7 +29,7 @@
 | E101 | U109 | As a user | I want to see a confirmation message after successful registration, password change, and password reset so that I know the action was successful. |
 | E101 | U110 | As a user | I want to be redirected to the dashboard after successful login so that I can start using TestCraft immediately. |
 
-## TestCraft User Story for E102
+## E102 Dashboard Design
 
 | EPIC # | User Story # | User Story | Description |
 | --- | --- | --- | --- |
