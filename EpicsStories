@@ -2,7 +2,7 @@
 
 | No. | TestCraft UI EPICs |
 | --- | ------------------ |
-| 1 | -**User Authentication UI**: Design and implement a user-friendly and secure login interface. |
+| 1 | **User Authentication UI** : Design and implement a user-friendly and secure login interface. |
 | 2 | Dashboard Design: Create a comprehensive dashboard that provides an overview of ongoing experiments, key metrics, and recent activity. |
 | 3 | Experiment Creation Wizard: Develop a step-by-step wizard to guide users through the process of creating a new experiment. |
 | 4 | Experiment Management Interface: Design an interface that allows users to easily manage their experiments, including starting, stopping, and modifying experiments. |
