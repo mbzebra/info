@@ -1,4 +1,4 @@
-# Key Considerations for an Experimentation Platform
+# Experimentation Platform Scope
 
 1. **User Interface**: 
    - The experimentation platform should have a user-friendly interface, making it easy to navigate while offering comprehensive functionality.
